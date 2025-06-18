@@ -159,9 +159,10 @@ html,body{
   border-bottom: 1px solid #888;
 }
 .elem img{
-  display: none;
-  /* opacity: 0; */
-  height: 100%;
+  /* display: none; */
+  opacity: 0;
+  width: 20vw;
+  height: 20vh;
   z-index: 999;
   position: absolute;
 }
